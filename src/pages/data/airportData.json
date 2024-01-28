@@ -1,0 +1,282 @@
+[
+      {
+        "name": "Adana Airport",
+        "city": "Adana",
+        "iata": "ADA"
+      },
+      {
+        "name": "Ankara Esenboğa Airport",
+        "city": "Ankara",
+        "iata": "ESB"
+      },
+      {
+        "name": "Gazipaşa Airport",
+        "city": "Antalya",
+        "iata": "GZP"
+      },
+      {
+        "name": "Antalya Airport",
+        "city": "Antalya",
+        "iata": "AYT"
+      },
+      {
+        "name": "Balıkesir Koca Seyit Airport",
+        "city": "Balıkesir",
+        "iata": "EDO"
+      },
+      {
+        "name": "Bursa Yenişehir Airport",
+        "city": "Bursa",
+        "iata": "YEI"
+      },
+      {
+        "name": "Denizli Çardak Airport",
+        "city": "Denizli",
+        "iata": "DNZ"
+      },
+      {
+        "name": "Diyarbakır Airport",
+        "city": "Diyarbakır",
+        "iata": "DIY"
+      },
+      {
+        "name": "Elazığ Airport",
+        "city": "Elazığ",
+        "iata": "EZS"
+      },
+      {
+        "name": "Erzurum Airport",
+        "city": "Erzurum",
+        "iata": "ERZ"
+      },
+      {
+        "name": "Eskişehir Hasan Polatkan Airport",
+        "city": "Eskişehir",
+        "iata": "AOE"
+      },
+      {
+        "name": "Gaziantep Airport",
+        "city": "Gaziantep",
+        "iata": "GZT"
+      },
+      {
+        "name": "Hatay Airport",
+        "city": "Hatay",
+        "iata": "HTY"
+      },
+      {
+        "name": "Isparta Süleyman Demirel Airport",
+        "city": "Isparta",
+        "iata": "ISE"
+      },
+      {
+        "name": "Istanbul Airport",
+        "city": "Istanbul",
+        "iata": "IST"
+      },
+      {
+        "name": "Istanbul Sabiha Gökçen Airport",
+        "city": "Istanbul",
+        "iata": "SAW"
+      },
+      {
+        "name": "İzmir Adnan Menderes Airport",
+        "city": "İzmir",
+        "iata": "ADB"
+      },
+      {
+        "name": "Kars Harakani Airport",
+        "city": "Kars",
+        "iata": "KSY"
+      },
+      {
+        "name": "Kayseri Airport",
+        "city": "Kayseri",
+        "iata": "ASR"
+      },
+      {
+        "name": "Kocaeli Cengiz Topel Airport",
+        "city": "Kocaeli",
+        "iata": "KCO"
+      },
+      {
+        "name": "Konya Airport",
+        "city": "Konya",
+        "iata": "KYA"
+      },
+      {
+        "name": "Zafer Airport",
+        "city": "Kütahya",
+        "iata": "KZR"
+      },
+      {
+        "name": "Malatya Airport",
+        "city": "Malatya",
+        "iata": "MLX"
+      },
+      {
+        "name": "Dalaman Airport",
+        "city": "Muğla",
+        "iata": "DLM"
+      },
+      {
+        "name": "Milas–Bodrum Airport",
+        "city": "Muğla",
+        "iata": "BJV"
+      },
+      {
+        "name": "Nevşehir Kapadokya Airport",
+        "city": "Nevşehir",
+        "iata": "NAV"
+      },
+      {
+        "name": "Ordu Giresun Airport",
+        "city": "Ordu",
+        "iata": "OGU"
+      },
+      {
+        "name": "Samsun-Çarşamba Airport",
+        "city": "Samsun",
+        "iata": "SZF"
+      },
+      {
+        "name": "Sinop Airport",
+        "city": "Sinop",
+        "iata": "NOP"
+      },
+      {
+        "name": "Sivas Nuri Demirağ Airport",
+        "city": "Sivas",
+        "iata": "VAS"
+      },
+      {
+        "name": "Şanlıurfa GAP Airport",
+        "city": "Şanlıurfa",
+        "iata": "GNY"
+      },
+      {
+        "name": "Tekirdağ Çorlu Airport",
+        "city": "Tekirdağ",
+        "iata": "TEQ"
+      },
+      {
+        "name": "Trabzon Airport",
+        "city": "Trabzon",
+        "iata": "TZX"
+      },
+      {
+        "name": "Van Ferit Melen Airport",
+        "city": "Van",
+        "iata": "VAN"
+      },
+      {
+        "name": "Zonguldak Çaycuma Airport",
+        "city": "Zonguldak",
+        "iata": "ONQ"
+      },
+      {
+        "name": "Adıyaman Airport",
+        "city": "Adıyaman",
+        "iata": "ADF"
+      },
+      {
+        "name": "Ağrı Ahmed-i Hani Airport",
+        "city": "Ağrı",
+        "iata": "AJI"
+      },
+      {
+        "name": "Amasya Merzifon Airport",
+        "city": "Amasya",
+        "iata": "MZH"
+      },
+      {
+        "name": "Aydın Çıldır Airport",
+        "city": "Aydın",
+        "iata": "CII"
+      },
+      {
+        "name": "Balıkesir Merkez Airport",
+      "city": "Balıkesir",
+        "iata": "BZI"
+      },
+      {
+        "name": "Batman Airport",
+        "city": "Batman",
+        "iata": "BAL"
+      },
+      {
+        "name": "Bingöl Airport",
+        "city": "Bingöl",
+        "iata": "BGG"
+      },
+      {
+        "name": "Çanakkale Airport",
+        "city": "Çanakkale",
+        "iata": "CKZ"
+      },
+      {
+        "name": "Gökçeada Airport",
+        "city": "Çanakkale",
+        "iata": "GKD"
+      },
+      {
+        "name": "Erzincan Airport",
+        "city": "Erzincan",
+        "iata": "ERC"
+      },
+      {
+        "name": "Hakkari–Yüksekova Selahaddin Eyyubi Airport",
+        "city": "Hakkari",
+        "iata": "YKO"
+      },
+      {
+        "name": "Iğdır Airport",
+        "city": "Iğdır",
+        "iata": "IGD"
+      },
+      {
+        "name": "Kahramanmaraş Airport",
+        "city": "Kahramanmaraş",
+        "iata": "KCM"
+      },
+      {
+        "name": "Kastamonu Airport",
+        "city": "Kastamonu",
+        "iata": "KFS"
+      },
+      {
+        "name": "Mardin Airport",
+        "city": "Mardin",
+        "iata": "MQM"
+      },
+      {
+        "name": "Muş Airport",
+        "city": "Muş",
+        "iata": "MSR"
+      },
+      {
+        "name": "Rize-Artvin Airport",
+        "city": "Rize",
+        "iata": "RZV"
+      },
+      {
+        "name": "Siirt Airport",
+        "city": "Siirt",
+        "iata": "SXZ"
+      },
+      {
+        "name": "Şırnak Şerafettin Elçi Airport",
+        "city": "Şırnak",
+        "iata": "NKT"
+      },
+      {
+        "name": "Tokat Airport",
+        "city": "Tokat",
+        "iata": "TJK"
+      },
+      {
+        "name": "Uşak Airport",
+        "city": "Uşak",
+        "iata": "USQ"
+      }
+]
