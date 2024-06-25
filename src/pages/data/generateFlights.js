@@ -2,11 +2,6 @@ function generateMockFlights(searchParams) {
   const getRandomHour = () => Math.floor(Math.random() * 24);
   const getRandomMinute = () => Math.floor(Math.random() * 60);
 
-  const parseDate = (date) => {
-    const [year, month, day] = date.split("-");
-    return new Date(year, month - 1, day);
-  };
-
   const setHours = (date, hours) => {
     const newDate = new Date(date);
     newDate.setHours(hours);
@@ -54,7 +49,7 @@ function generateMockFlights(searchParams) {
       const flight = generateUserInputFlight(
         departureAirport,
         arrivalAirport,
-        parseDate(date)
+        date
       );
       flights.push(flight);
     }
