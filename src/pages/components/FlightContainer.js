@@ -8,9 +8,10 @@ const FlightContainer = ({ flights, returnFlights }) => {
 
       {/* Outbound Flights */}
       <div className="flex flex-wrap mb-4 mx-auto">
-        {flights.map((flight, index) => (
-          <Flight key={index} flight={flight} />
-        ))}
+        {flights &&
+          flights.map((flight, index) => (
+            <Flight key={index} flight={flight} />
+          ))}
       </div>
 
       {/* Return Flights */}
